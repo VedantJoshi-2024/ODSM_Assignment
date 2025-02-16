@@ -1,22 +1,22 @@
 # Optimization and Data Science Methods Assignment
 ## Table of Contents <br>
 
-1. [Introduction](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#introduction)
+1. [Introduction](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#introduction)
 
-2. [Part A: Warm-up](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#part-a-warm-up)
+2. [Part A: Warm-up](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#part-a-warm-up)
 
-- [A1. Gradient Descent Recap](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#a1-gradient-descent-recap)
-- [A2. Newton's Method](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#a2-newtons-method)
-- [A3. Hessian & Local Optimality](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#a3-hessian--local-optimality)
+- [A1. Gradient Descent Recap](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#a1-gradient-descent-recap)
+- [A2. Newton's Method](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#a2-newtons-method)
+- [A3. Hessian & Local Optimality](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#a3-hessian--local-optimality)
 
-3. [Part B: Applied Coding Tasks](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#part-b-applied-coding-tasks)
+3. [Part B: Applied Coding Tasks](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#part-b-applied-coding-tasks)
 
-- [B1. Minimizing a Real Function](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#b1-minimizing-a-real-function)
-- [B2. Small Data Problem](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#b2-small-data-problem)
+- [B1. Minimizing a Real Function](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#b1-minimizing-a-real-function)
+- [B2. Small Data Problem](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#b2-small-data-problem)
 
-4. [Part C: Conceptual Intuition on Quasi-Newton vs. Exact Newton](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#part-c-conceptual-intuition-on-quasi-newton-vs-exact-newton)
+4. [Part C: Conceptual Intuition on Quasi-Newton vs. Exact Newton](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#part-c-conceptual-intuition-on-quasi-newton-vs-exact-newton)
 
-5. [Conclusion](https://github.com/VedantJoshi-2024/ODSM_Assignment/new/main?filename=README.md#conclusion)
+5. [Conclusion](https://github.com/VedantJoshi-2024/ODSM_Assignment/tree/main?tab=readme-ov-file#conclusion)
 
 ### Introduction
 This repository contains the solutions and explanations for an assignment focused on optimization techniques and data science methods. The assignment is divided into three main parts: theoretical warm-up exercises, applied coding tasks, and conceptual questions about Newton and quasi-Newton methods.
